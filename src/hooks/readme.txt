@@ -1,0 +1,2 @@
+Thư mục hooks chứa các customHook sử dụng trong dự án.
+Lưu ý nhớ check các hook được tạo ra tránh việc hook chạy vòng lặp vô tận
